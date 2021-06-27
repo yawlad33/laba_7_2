@@ -37,7 +37,7 @@ void p(double* a, double* b, double* c) {
 int main() {
 	setlocale(LC_ALL, "Rus");
 	double a, b, c;
-	cout << "Ââåäèòå 3 ÷èñëà: ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ 3 Ñ‡Ð¸ÑÐ»Ð°: ";
 	cin >> a >> b >> c;
 
 	p(&a, &b, &c);
